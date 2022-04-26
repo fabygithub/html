@@ -1,0 +1,14 @@
+<h1>El blog de maquillaje de Mary</h1>
+<p>Veamos algunas de mis entradas más recientes...</p>
+
+<article>
+  <header>
+    <h1>Uso de Vitamina C en el rostro</h1>
+    <p>Publicado <time pubdate datetime="2019-05-20T18:00-04:00">la semana pasada</time></p>
+  </header>
+  <p>Últimamente se ha demostrado que el ácido ascórbico puede hacer maravillas en nuestro rostro, ayuda activamente en la producción de colágeno y es perfecto para usar en forma de serum justo antes de un buen protector solar. </p>
+  <p>...</p>
+  <aside>
+    <p>Es importante que utilices la vitamina C con un grado de concentración adecuado para la sensibilidad de tu piel, así evitarás daños...</p>
+  </aside>
+</article>
