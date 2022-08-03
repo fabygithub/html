@@ -16,6 +16,13 @@ document.write(100/4);
 no va a sumar va a juntar las palabras
 document.write("20 + 15");
 
+document.write("18" + "2");
+
+1991
+document.write(2020-29);
+
+50
+document.write(20+25+15/3);
 
 
 
