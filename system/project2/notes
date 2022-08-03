@@ -1,0 +1,27 @@
+pagina basica
+<meta charset="UTF-8">
+
+<h1>
+<br>
+<script>
+
+la convencion es usar letras minusculas para los tags
+pero el navegador no le importa si esta en mayuscula o
+minuscula
+
+document.write
+document.write(25); 
+document.write(100/4); 
+
+no va a sumar va a juntar las palabras
+document.write("20 + 15");
+
+
+
+
+
+
+
+
+
+
