@@ -24,6 +24,37 @@ document.write(2020-29);
 50
 document.write(20+25+15/3);
 
+20
+document.write((20+25+15)/3);
+
+document.write("la suma de edad de Juan,Pedro y carlos es ...<br>" + (20 + 25 + 15));
+
+el texto necesita estar en comillas
+document.write(12 + " años");
+
+document.write, dentro del script, en realidad estamos escribiendo en el mundo HTML, 
+es decir, lo que veremos es un resultado HTML.
+
+
+escribir en html 
+<meta charset="UTF-8">
+Estoy escribiendo desde el mundo JavaScript en el mundo HTML
+<script>
+
+</script>
+
+por ejemplo 
+html no es capaz de hacer
+operaciones matematicas
+
+<meta charset="UTF-8">
+<h1>Sea bienvenido</h1>
+<script>
+</script>
+
+el mismo resultado
+document.write("Realicé la prueba en el mes " + mes + ".");
+
 
 
 
